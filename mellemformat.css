@@ -1,0 +1,70 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* Css til mellemformater */
+
+footer {
+	display: block;
+	height: 120px;
+	background: #272727;
+}
+
+.logo{
+	height: 110px;
+	width: 190px;
+	
+}
+img{
+	float: left;
+	max-height: 110%;
+	max-width: 110%;
+}
+nav{
+	width: 72.5%;
+	height: 60px;
+	padding: 0px 0px 0px 0px;
+	margin-top: 20px;
+}
+nav a{
+	font-size: 12px;
+}
+
+nav a:hover {
+	font-size: 14px;
+}
+article{
+	width: 100%;
+	height: 300px;
+}
+
+.banner{
+	width: 100%;
+	height: 300px;
+}
+aside{
+	width: 100%;
+	height: 300px;
+}
+.content{
+	float: right;
+}
+
+.leftfooter{
+	float: left;
+	max-width: 300px;
+	padding: 14px 0px 5px 15px;
+	font-family: sans-serif; 
+	line-height: 22px;
+	text-align:justify;
+	font-size: 14px;
+	color: white;
+
+}
+.rightfooter{
+	
+	float: right;
+	padding: 15px 15px 5px 5px;
+	font-size: 14px;
+	margin: 0px;
+	color: white;
+}
