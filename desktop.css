@@ -19,17 +19,27 @@ aside{
 	width: 33.33%;
 	height: 500px;
 	/*background-image: url(img/Test 400x500.png);*/
+	margin-left: 0;
 }
 article{
 	width: 33.33%;
 	height: 500px;
+	margin-left: 0;
 }
 
 .banner{
 	width: 33.33%;
 	height: 500px;
+	margin-left: 0;
 }
 
+.content{
+	
+	display: block;
+}
+.content2{
+	display: none;
+}
 nav{
 	width: 100%;
 	padding: 0px 0px 3px 0px;

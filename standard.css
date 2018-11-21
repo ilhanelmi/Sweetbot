@@ -104,6 +104,10 @@ body{
 aside, article, .banner{
 	/*background-color:grey;*/
 }
+.content{
+	
+	display: none;
+}
 footer{
 	display: none;
 }
@@ -120,7 +124,6 @@ img{
 }
 nav{
 	height: 50px;
-	/*background-color: black;*/
 }
 
 article{
