@@ -165,6 +165,16 @@ h2 {
 	font-family: 'Lato', sans-serif;
 	line-height: 20px;
 	margin-left: 50px;
-	margin-top: 200px;
+	margin-top: 50px;
 	
 }
+button {
+	padding: 10px 30px 10px 30px;
+	margin: 10px;
+	margin-right: 40px;
+	float: right;
+	font-size: 20px;
+	margin-bottom: 30px;
+	color: white;
+	background-color: #3d6bb4;
+	

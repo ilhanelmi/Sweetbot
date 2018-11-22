@@ -44,6 +44,9 @@ aside{
 	display: none;
 	
 }
+.content2{
+	max-height: 280px;
+}
 
 .leftfooter{
 	float: left;

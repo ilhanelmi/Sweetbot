@@ -65,7 +65,6 @@ footer{
 	display: block;
 	background: #3D6BB4;
 	width: 100%;
-	height: 200px;
 }
 
 @media screen and (min-width: 1200px) {
@@ -83,5 +82,7 @@ button {
 	float: right;
 	font-size: 20px;
 	margin-bottom: 30px;
+	color: white;
+	background-color: #3d6bb4;
 	
 }
