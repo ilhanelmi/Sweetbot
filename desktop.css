@@ -33,6 +33,12 @@ article{
 	margin-left: 0;
 }
 
+#kontakttekst {
+	width: 60%;
+}
+#kontaktbillede {
+	width: 39%;
+}
 .content{
 	
 	display: block;
