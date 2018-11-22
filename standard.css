@@ -86,7 +86,7 @@ nav a:hover {
 body{
 	font-family: helvetica, arial, sans-serif;
 	margin: 2%;
-	background: #515151;
+	background: url("img/background.png")
 }
 
 .container{
