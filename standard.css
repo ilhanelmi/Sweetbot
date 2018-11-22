@@ -137,3 +137,12 @@ article{
 aside{
 	height: 200px;
 }
+aside, .kontakttekst {
+	background: #ddd
+}
+article, .kontaktbillede {
+	background: #ddd
+}
+h2 {
+	visibility: hidden;
+}
