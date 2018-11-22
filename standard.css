@@ -1,5 +1,5 @@
 @charset "UTF-8";
-@import url('https://fonts.googleapis.com/css?family=Lato');
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700');
 /* CSS Document */
 
 /*browser/CSS reset*/
@@ -146,4 +146,15 @@ p {
 }
 #sikkerhed {
 	display: none;
+}
+.kontakt {
+	padding-left: 100px;
+	padding-right: 100px;
+	text-align: justify;
+}
+h2 {
+	font-weight: bold;
+	font-size: 1.3em;
+	text-align: center;
+	padding-top: 30px;
 }
