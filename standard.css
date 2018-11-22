@@ -142,15 +142,12 @@ article{
 aside{
 	height: 200px;
 }
-#lokalisation {
+.validering {
 	display: none;
 }
 p {
 	font-family: 'Lato', sans-serif;
 	line-height: 20px;
-}
-#sikkerhed {
-	display: none;
 }
 .kontakt {
 	padding-left: 100px;
