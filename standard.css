@@ -158,9 +158,16 @@ p {
 	text-align: justify;
 }
 h2 {
-	font-family: 'Lato', sans-serif;
 	font-weight: bold;
 	font-size: 2.3em;
 	text-align: center;
 	padding-top: 30px;
+}
+
+.pakkelosning {
+	font-family: 'Lato', sans-serif;
+	line-height: 20px;
+	margin-left: 50px;
+	margin-top: 200px;
+	
 }

@@ -43,7 +43,7 @@ article{
 	
 }
 .content{
-	
+	margin-bottom: 20px;
 	display: block;
 }
 .content2{
@@ -74,4 +74,14 @@ footer{
 		max-width: 1200px;
 		margin: 0 auto;
 	}
+}
+
+button {
+	padding: 10px 30px 10px 30px;
+	margin: 10px;
+	margin-right: 40px;
+	float: right;
+	font-size: 20px;
+	margin-bottom: 30px;
+	
 }
