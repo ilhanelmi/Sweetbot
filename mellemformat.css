@@ -4,9 +4,7 @@
 /* Css til mellemformater */
 
 footer {
-	display: block;
-	height: 120px;
-	background: #272727;
+	display: none;
 }
 
 .logo{
